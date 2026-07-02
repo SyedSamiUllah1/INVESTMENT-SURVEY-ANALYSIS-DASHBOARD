@@ -6,7 +6,7 @@ An interactive **Investment Survey Analysis Dashboard** built in **Microsoft Exc
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
